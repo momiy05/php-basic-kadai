@@ -6,7 +6,6 @@
     </head>
     <body>
         <h2>社員情報入力フォーム</h2>
-        <p>問題なければ「確定」、修正する場合は「キャンセル」をクリックしてください。</p>
         <form action="confirm.php" method="post">
             <table>
             <tr>
